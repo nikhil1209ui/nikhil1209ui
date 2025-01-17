@@ -8,7 +8,7 @@ With a strong foundation in practical experience and relevant certifications, I'
 - 🔭 I’m always eager to explore new technologies and apply them to solve real-world problems.
 - 🎮 In my free time, I love lifting weights and playing video games.
 - ## Skills
-- - **Programming Languages:** Python, R, SQL
+- - **Programming Languages:** Python, R, SQL, DAX
 - - **Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn
 - - **Machine Learning:** Scikit-Learn, TensorFlow, Keras
 - - **Data Engineering:** Azure
